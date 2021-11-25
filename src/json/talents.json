@@ -1,0 +1,234 @@
+[
+    {
+        "name": "Iron fists",
+        "effect": "+15% dmg for fist combat",
+        "description": "When using your fists in a battle, you can concentrate all your power into your fists to vanquish your enemies !"
+    },
+    {
+        "name": "Authority",
+        "effect": "+10 charisma when you give orders",
+        "description": "Use your natural authority to delegate tasks to the weak !"
+    },
+    {
+        "name": "Leadership",
+        "effect": "+5 cool for you and your allies in dangerous situations",
+        "description": "Use your intellectual superiority to lead your group to victory and help them make the best decisions."
+    },
+    {
+        "name": "Medical Tech",
+        "effect": "+25% heal when using tech meds",
+        "description": "Your knowledge in medical tech can be used to give the best out of your stims !"
+    },
+    {
+        "name": "Battle Sense",
+        "effect": "+5 for any dice used while battling",
+        "description": "",
+        "image": "https://media.tenor.com/images/f21293f5cae5828a0f1aaf434d43f3fa/tenor.gif"
+    },
+    {
+        "name": "Street knowledge",
+        "effect": "+15 knowledge on street subjects",
+        "description": "You know everyone and every place in this damn city."
+    },
+    {
+        "name": "Swimming Athlete",
+        "effect": "+15 Agility while swimming",
+        "description": "",
+        "image": "https://pbs.twimg.com/media/COqRV5bUwAAwSkp.jpg"
+    },
+    {
+        "name": "Intimidation",
+        "effect": "+10 charisma when intimidating",
+        "description": "Use your best weapon: your mouth (a knife or a gun is also good) while intimidating some fucker"
+    },
+    {
+        "name": "Endurance",
+        "effect": "You'll never get tired",
+        "description": "",
+        "image": "https://media1.tenor.com/images/220a12eff154867e85121d1243549f56/tenor.gif?itemid=15551087"
+    },
+    {
+        "name": "Drug resistance",
+        "effect": "You won't get drug penalty",
+        "description": "",
+        "image": "https://media1.tenor.com/images/dd0935f96369c070cfba271ef0fce74a/tenor.gif?itemid=12516944"
+    },
+    {
+        "name": "Human perception",
+        "effect": "+10 observation on people",
+        "description": "You're like a walking lie detector."
+    },
+    {
+        "name": "Seduction",
+        "effect": "+10 charisma when seducting people",
+        "description": "",
+        "image": "https://i.ytimg.com/vi/JMTPMQD90Lk/maxresdefault.jpg"
+    },
+    {
+        "name": "Persuasion",
+        "effect": "+10 charisma when persuading someone",
+        "description": "",
+        "image":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/323faa33-9189-4dcf-bf67-ac40a49a15ef/d7dt53m-fa2afb61-57a1-4891-aa87-cc84e83c55bc.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi8zMjNmYWEzMy05MTg5LTRkY2YtYmY2Ny1hYzQwYTQ5YTE1ZWYvZDdkdDUzbS1mYTJhZmI2MS01N2ExLTQ4OTEtYWE4Ny1jYzg0ZTgzYzU1YmMuZ2lmIn1dXX0.Yt2Fedev2AERttdcAE2KP8BbbZT7NKdetpFeuAmlcZk"
+    },
+    {
+        "name": "Accounting",
+        "effect": "+10 intelligence when manipulating numbers",
+        "description": "",
+        "image":"https://www.insights.la/wp-content/uploads/2017/03/arte-y-ciencia-de-los-gif.gif"
+    },
+    {
+        "name": "Awareness",
+        "effect": "+10 perception to analyze your surrounding environment",
+        "description": "",
+        "image": "https://media0.giphy.com/media/1qErVv5GVUac8uqBJU/200.gif"
+    },
+    {
+        "name": "Biology",
+        "effect": "+10 intelligence and knowledge on biology subjects",
+        "description": "Even if everything is synthetic now, you've learned how to recognize birds ! It might help someday."
+    },
+    {
+        "name": "Botany",
+        "effect": "+10 intelligence and knowledge on botanical subjects",
+        "description": "Even if everything is synthetic now, you've learned how to recognize mushrooms ! It might help someday."
+    },
+    {
+        "name": "Chemistry",
+        "effect": "+10 intelligence and knowledge on chemistry subjects",
+        "description": "You're able to recognize any drugs by sniffing them. (Be careful when analyzing acids)"
+    },
+    {
+        "name": "Medical knowledge",
+        "effect": "+10 intelligence and knowledge on medical subjects",
+        "description": "Because you kept cutting yourself when you were a child, you learned how to put on a bandage."
+    },
+    {
+        "name": "Geology",
+        "effect": "+10 intelligence and knowledge on geology subjects",
+        "description": "Your name is Pierre, isn't it ?"
+    },
+    {
+        "name": "History",
+        "effect": "+10 intelligence and knowledge on history subjects",
+        "description": "You always watch the history channel. You know that aliens created the pyramids."
+    },
+    {
+        "name": "Languages",
+        "effect": "+10 charisma and no penalties while talking in a foreign language",
+        "description": "Donde esta la biblioteca. Me llamo T-Bone, la araña discoteca. Discoteca, muñeca, la biblioteca, es el bigote grande, perro, manteca."
+    },
+    {
+        "name": "Math",
+        "effect": "+10 intelligence and knowledge on math subjects",
+        "description": "You can count from 1 to 100 without using your hands !"
+    },
+    {
+        "name": "Physics",
+        "effect": "+10 intelligence and knowledge on math subjects",
+        "description": "You can count from 1 to 100 without using your hands !"
+    },
+    {
+        "name": "Programmation",
+        "effect": "+10 intelligence and knowledge on programmation/hacking subjects",
+        "description": "By always naming variables a1, a2, hk, ii and e, you created your programming language that only you can understand !"
+    },
+    {
+        "name": "Electronics",
+        "effect": "+10 intelligence and knowledge on electronics subjects",
+        "description": "You can repair anything by using your sonic hammer ! (does not work on doors)"
+    },
+    {
+        "name": "Music",
+        "effect": "+10 charisma and knowledge on music subjects",
+        "description": "With your loyal flute, you can charm people like snakes !"
+    },
+    {
+        "name": "Education 0",
+        "effect": "No knowledge",
+        "description": "At least you know how to speak (partially)"
+    },
+    {
+        "name": "Education 1",
+        "effect": "Basic knowledge",
+        "description": "You dumb dumb."
+    },
+    {
+        "name": "Education 2",
+        "effect": "Intermediate knowledge",
+        "description": "You went to school until you were 16. You have everything you need to succeed in NighCity."
+    },
+    {
+        "name": "Education 3",
+        "effect": "Superior knowledge",
+        "description": "You went to school in NC and even studied abroad. You specialized in one of the following fields: (Biology, Botany, Chemistry, Medic, Geology, History, Languages, Math, Physics, Programmation, Electronics or Music."
+    },
+    {
+        "name": "Discretion",
+        "effect": "+10 agility and cool while sneaking",
+        "description": "",
+        "image": "https://www.cliqueduplateau.com/wordpress/wp-content/uploads/2015/01/aeqiy0.gif"
+    },
+    {
+        "name": "Track",
+        "effect": "+10 observation when tracking",
+        "description": "Use your witcher sense to highlight everything arround you in red !"
+    },
+    {
+        "name": "Archery",
+        "effect": "+10 agility and +25% dmg when using a bow or crossbow",
+        "description": "Who uses bows anymore ?"
+    },
+    {
+        "name": "Athletic",
+        "effect": "+5 strength, +5 agility, +5 charisma BUT -5 knowledge, -5 intelligence",
+        "description": "You may run fast but you can't read on a analog clock."
+    },
+    {
+        "name": "Dance",
+        "effect": "Double your charisma while dancing",
+        "description": "",
+        "image":"https://thumbs.gfycat.com/BrightJoyousIndri-size_restricted.gif"
+    },
+    {
+        "name": "Driving",
+        "effect": "You know how to use a car",
+        "description": "",
+        "image": "https://i.kym-cdn.com/entries/icons/facebook/000/028/987/lightningspeed.jpg"
+    },
+    {
+        "name": "Expertise: One handed melee weapon",
+        "effect": "+15 to any stat dice while using one handed melee weapon BUT -10 to any stat dice while using another type of weapon",
+        "description": ""
+    },
+    {
+        "name": "Expertise: Two handed melee weapon",
+        "effect": "+15 to any stat dice while using two handed melee weapon BUT -10 to any stat dice while using another type of weapon",
+        "description": ""
+    },
+    {
+        "name": "Expertise: Handgun",
+        "effect": "+15 to any stat dice while using handguns BUT -10 to any stat dice while using another type of weapon",
+        "description": ""
+    },
+    {
+        "name": "Expertise: Shotgun",
+        "effect": "+15 to any stat dice while using shotguns BUT -10 to any stat dice while using another type of weapon",
+        "description": ""
+    },
+    {
+        "name": "Expertise: Assault Rifle",
+        "effect": "+15 to any stat dice while using assault rifles BUT -10 to any stat dice while using another type of weapon",
+        "description": ""
+    },
+    {
+        "name": "Expertise: Sniper",
+        "effect": "+10 to any stat dice while using snipers BUT -10 to any stat dice while using another type of weapon",
+        "description": "One shot, one kill."
+    },
+    {
+        "name": "Demolition expert",
+        "effect": "+5 agility to throw explosives and double their damages",
+        "description": "",
+        "image":"https://media1.tenor.com/images/2d5c8eedca17aebbc664d3e256afafd9/tenor.gif?itemid=14538982"
+    }
+]

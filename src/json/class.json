@@ -1,0 +1,164 @@
+[
+    {
+        "name": "Solo",
+        "description": "<p><strong>Lorem ipsum dolor sit amet:</strong></p><p>Consectetur adipiscing elit. Vivamus elementum placerat consectetur. Nunc tellus sapien, bibendum sit amet quam ut, congue mattis sapien. Nullam ultricies fringilla nulla vel vestibulum. Sed neque quam, aliquet tempor efficitur non, sodales eget ligula. Maecenas vestibulum nisi et tempus faucibus. Phasellus at magna nec mauris luctus suscipit sit amet in sapien. Suspendisse eleifend mi ante, in hendrerit erat pretium sed.&nbsp;</p><p>Cras non ligula massa. Mauris posuere elementum neque nec sollicitudin. Sed eget faucibus nisl. Nunc ut sagittis metus, at interdum quam. Donec mollis mauris purus, nec imperdiet nisl fringilla at. Suspendisse vulputate purus eu odio condimentum, eget faucibus nibh pellentesque. Vivamus consectetur sem sed efficitur scelerisque. Nullam nibh felis, tincidunt ac sem ac, eleifend posuere quam.</p><p><br></p>",
+        "health": 10,
+        "mana": 10,
+        "statistics":
+        {
+            "strength": 70,
+            "agility": 60,
+            "tech": 30,
+            "intelligence": 30,
+            "cool": 50,
+            "charisma": 50,
+            "luck": 40,
+            "knowledge": 20,
+            "observation": 30
+        }
+    },
+    {
+        "name": "Rocker",
+        "description": "<p><strong>Lorem ipsum dolor sit amet:</strong></p><p>Consectetur adipiscing elit. Vivamus elementum placerat consectetur. Nunc tellus sapien, bibendum sit amet quam ut, congue mattis sapien. Nullam ultricies fringilla nulla vel vestibulum. Sed neque quam, aliquet tempor efficitur non, sodales eget ligula. Maecenas vestibulum nisi et tempus faucibus. Phasellus at magna nec mauris luctus suscipit sit amet in sapien. Suspendisse eleifend mi ante, in hendrerit erat pretium sed.&nbsp;</p><p>Cras non ligula massa. Mauris posuere elementum neque nec sollicitudin. Sed eget faucibus nisl. Nunc ut sagittis metus, at interdum quam. Donec mollis mauris purus, nec imperdiet nisl fringilla at. Suspendisse vulputate purus eu odio condimentum, eget faucibus nibh pellentesque. Vivamus consectetur sem sed efficitur scelerisque. Nullam nibh felis, tincidunt ac sem ac, eleifend posuere quam.</p><p><br></p>",
+        "health": 10,
+        "mana": 10,
+        "statistics":
+        {
+            "strength": 50,
+            "agility": 30,
+            "tech": 20,
+            "intelligence": 15,
+            "cool": 50,
+            "charisma": 50,
+            "luck": 40,
+            "knowledge": 45,
+            "observation": 30
+        }
+    },
+    {
+        "name": "Netrunner",
+        "description": "<p><strong>Lorem ipsum dolor sit amet:</strong></p><p>Consectetur adipiscing elit. Vivamus elementum placerat consectetur. Nunc tellus sapien, bibendum sit amet quam ut, congue mattis sapien. Nullam ultricies fringilla nulla vel vestibulum. Sed neque quam, aliquet tempor efficitur non, sodales eget ligula. Maecenas vestibulum nisi et tempus faucibus. Phasellus at magna nec mauris luctus suscipit sit amet in sapien. Suspendisse eleifend mi ante, in hendrerit erat pretium sed.&nbsp;</p><p>Cras non ligula massa. Mauris posuere elementum neque nec sollicitudin. Sed eget faucibus nisl. Nunc ut sagittis metus, at interdum quam. Donec mollis mauris purus, nec imperdiet nisl fringilla at. Suspendisse vulputate purus eu odio condimentum, eget faucibus nibh pellentesque. Vivamus consectetur sem sed efficitur scelerisque. Nullam nibh felis, tincidunt ac sem ac, eleifend posuere quam.</p><p><br></p>",
+        "health": 10,
+        "mana": 10,
+        "statistics":
+        {
+            "strength": 5,
+            "agility": 5,
+            "tech": 5,
+            "intelligence": 5,
+            "cool": 5,
+            "charisma": 5,
+            "luck": 5,
+            "knowledge": 5,
+            "observation": 5
+        }
+    },
+    {
+        "name": "Techies",
+        "description": "<p><strong>Lorem ipsum dolor sit amet:</strong></p><p>Consectetur adipiscing elit. Vivamus elementum placerat consectetur. Nunc tellus sapien, bibendum sit amet quam ut, congue mattis sapien. Nullam ultricies fringilla nulla vel vestibulum. Sed neque quam, aliquet tempor efficitur non, sodales eget ligula. Maecenas vestibulum nisi et tempus faucibus. Phasellus at magna nec mauris luctus suscipit sit amet in sapien. Suspendisse eleifend mi ante, in hendrerit erat pretium sed.&nbsp;</p><p>Cras non ligula massa. Mauris posuere elementum neque nec sollicitudin. Sed eget faucibus nisl. Nunc ut sagittis metus, at interdum quam. Donec mollis mauris purus, nec imperdiet nisl fringilla at. Suspendisse vulputate purus eu odio condimentum, eget faucibus nibh pellentesque. Vivamus consectetur sem sed efficitur scelerisque. Nullam nibh felis, tincidunt ac sem ac, eleifend posuere quam.</p><p><br></p>",
+        "health": 10,
+        "mana": 10,
+        "statistics":
+        {
+            "strength": 5,
+            "agility": 5,
+            "tech": 5,
+            "intelligence": 5,
+            "cool": 5,
+            "charisma": 5,
+            "luck": 5,
+            "knowledge": 5,
+            "observation": 5
+        }
+    },
+    {
+        "name": "Medias",
+        "description": "<p><strong>Lorem ipsum dolor sit amet:</strong></p><p>Consectetur adipiscing elit. Vivamus elementum placerat consectetur. Nunc tellus sapien, bibendum sit amet quam ut, congue mattis sapien. Nullam ultricies fringilla nulla vel vestibulum. Sed neque quam, aliquet tempor efficitur non, sodales eget ligula. Maecenas vestibulum nisi et tempus faucibus. Phasellus at magna nec mauris luctus suscipit sit amet in sapien. Suspendisse eleifend mi ante, in hendrerit erat pretium sed.&nbsp;</p><p>Cras non ligula massa. Mauris posuere elementum neque nec sollicitudin. Sed eget faucibus nisl. Nunc ut sagittis metus, at interdum quam. Donec mollis mauris purus, nec imperdiet nisl fringilla at. Suspendisse vulputate purus eu odio condimentum, eget faucibus nibh pellentesque. Vivamus consectetur sem sed efficitur scelerisque. Nullam nibh felis, tincidunt ac sem ac, eleifend posuere quam.</p><p><br></p>",
+        "health": 10,
+        "mana": 10,
+        "statistics":
+        {
+            "strength": 5,
+            "agility": 5,
+            "tech": 5,
+            "intelligence": 5,
+            "cool": 5,
+            "charisma": 5,
+            "luck": 5,
+            "knowledge": 5,
+            "observation": 5
+        }
+    },
+    {
+        "name": "Cops",
+        "description": "<p><strong>Lorem ipsum dolor sit amet:</strong></p><p>Consectetur adipiscing elit. Vivamus elementum placerat consectetur. Nunc tellus sapien, bibendum sit amet quam ut, congue mattis sapien. Nullam ultricies fringilla nulla vel vestibulum. Sed neque quam, aliquet tempor efficitur non, sodales eget ligula. Maecenas vestibulum nisi et tempus faucibus. Phasellus at magna nec mauris luctus suscipit sit amet in sapien. Suspendisse eleifend mi ante, in hendrerit erat pretium sed.&nbsp;</p><p>Cras non ligula massa. Mauris posuere elementum neque nec sollicitudin. Sed eget faucibus nisl. Nunc ut sagittis metus, at interdum quam. Donec mollis mauris purus, nec imperdiet nisl fringilla at. Suspendisse vulputate purus eu odio condimentum, eget faucibus nibh pellentesque. Vivamus consectetur sem sed efficitur scelerisque. Nullam nibh felis, tincidunt ac sem ac, eleifend posuere quam.</p><p><br></p>",
+        "health": 10,
+        "mana": 10,
+        "statistics":
+        {
+            "strength": 5,
+            "agility": 5,
+            "tech": 5,
+            "intelligence": 5,
+            "cool": 5,
+            "charisma": 5,
+            "luck": 5,
+            "knowledge": 5,
+            "observation": 5
+        }
+    },
+    {
+        "name": "Corpo",
+        "description": "<p><strong>Lorem ipsum dolor sit amet:</strong></p><p>Consectetur adipiscing elit. Vivamus elementum placerat consectetur. Nunc tellus sapien, bibendum sit amet quam ut, congue mattis sapien. Nullam ultricies fringilla nulla vel vestibulum. Sed neque quam, aliquet tempor efficitur non, sodales eget ligula. Maecenas vestibulum nisi et tempus faucibus. Phasellus at magna nec mauris luctus suscipit sit amet in sapien. Suspendisse eleifend mi ante, in hendrerit erat pretium sed.&nbsp;</p><p>Cras non ligula massa. Mauris posuere elementum neque nec sollicitudin. Sed eget faucibus nisl. Nunc ut sagittis metus, at interdum quam. Donec mollis mauris purus, nec imperdiet nisl fringilla at. Suspendisse vulputate purus eu odio condimentum, eget faucibus nibh pellentesque. Vivamus consectetur sem sed efficitur scelerisque. Nullam nibh felis, tincidunt ac sem ac, eleifend posuere quam.</p><p><br></p>",
+        "health": 10,
+        "mana": 10,
+        "statistics":
+        {
+            "strength": 5,
+            "agility": 5,
+            "tech": 5,
+            "intelligence": 5,
+            "cool": 5,
+            "charisma": 5,
+            "luck": 5,
+            "knowledge": 5,
+            "observation": 5
+        }
+    },
+    {
+        "name": "Fixer",
+        "description": "<p><strong>Lorem ipsum dolor sit amet:</strong></p><p>Consectetur adipiscing elit. Vivamus elementum placerat consectetur. Nunc tellus sapien, bibendum sit amet quam ut, congue mattis sapien. Nullam ultricies fringilla nulla vel vestibulum. Sed neque quam, aliquet tempor efficitur non, sodales eget ligula. Maecenas vestibulum nisi et tempus faucibus. Phasellus at magna nec mauris luctus suscipit sit amet in sapien. Suspendisse eleifend mi ante, in hendrerit erat pretium sed.&nbsp;</p><p>Cras non ligula massa. Mauris posuere elementum neque nec sollicitudin. Sed eget faucibus nisl. Nunc ut sagittis metus, at interdum quam. Donec mollis mauris purus, nec imperdiet nisl fringilla at. Suspendisse vulputate purus eu odio condimentum, eget faucibus nibh pellentesque. Vivamus consectetur sem sed efficitur scelerisque. Nullam nibh felis, tincidunt ac sem ac, eleifend posuere quam.</p><p><br></p>",
+        "health": 10,
+        "mana": 10,
+        "statistics":
+        {
+            "strength": 5,
+            "agility": 5,
+            "tech": 5,
+            "intelligence": 5,
+            "cool": 5,
+            "charisma": 5,
+            "luck": 5,
+            "knowledge": 5,
+            "observation": 5
+        }
+    },
+    {
+        "name": "Nomad",
+        "description": "<p><strong>Lorem ipsum dolor sit amet:</strong></p><p>Consectetur adipiscing elit. Vivamus elementum placerat consectetur. Nunc tellus sapien, bibendum sit amet quam ut, congue mattis sapien. Nullam ultricies fringilla nulla vel vestibulum. Sed neque quam, aliquet tempor efficitur non, sodales eget ligula. Maecenas vestibulum nisi et tempus faucibus. Phasellus at magna nec mauris luctus suscipit sit amet in sapien. Suspendisse eleifend mi ante, in hendrerit erat pretium sed.&nbsp;</p><p>Cras non ligula massa. Mauris posuere elementum neque nec sollicitudin. Sed eget faucibus nisl. Nunc ut sagittis metus, at interdum quam. Donec mollis mauris purus, nec imperdiet nisl fringilla at. Suspendisse vulputate purus eu odio condimentum, eget faucibus nibh pellentesque. Vivamus consectetur sem sed efficitur scelerisque. Nullam nibh felis, tincidunt ac sem ac, eleifend posuere quam.</p><p><br></p>",
+        "health": 10,
+        "mana": 10,
+        "statistics":
+        {
+            "strength": 5,
+            "agility": 5,
+            "tech": 5,
+            "intelligence": 5,
+            "cool": 5,
+            "charisma": 5,
+            "luck": 5,
+            "knowledge": 5,
+            "observation": 5
+        }
+    }
+]

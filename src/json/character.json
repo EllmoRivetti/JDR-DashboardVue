@@ -1,0 +1,78 @@
+{
+    "general": {
+        "name":"Billy booooob",
+        "image": "https://i.pinimg.com/originals/57/3f/41/573f415bda593b76de82111fb5a2c931.png",
+        "class": "Solo",
+        "history":"<p><strong>Lorem ipsum dolor sit amet:</strong></p><p>Consectetur adipiscing elit. Vivamus elementum placerat consectetur. Nunc tellus sapien, bibendum sit amet quam ut, congue mattis sapien. Nullam ultricies fringilla nulla vel vestibulum. Sed neque quam, aliquet tempor efficitur non, sodales eget ligula. Maecenas vestibulum nisi et tempus faucibus. Phasellus at magna nec mauris luctus suscipit sit amet in sapien. Suspendisse eleifend mi ante, in hendrerit erat pretium sed.&nbsp;</p><p>Cras non ligula massa. Mauris posuere elementum neque nec sollicitudin. Sed eget faucibus nisl. Nunc ut sagittis metus, at interdum quam. Donec mollis mauris purus, nec imperdiet nisl fringilla at. Suspendisse vulputate purus eu odio condimentum, eget faucibus nibh pellentesque. Vivamus consectetur sem sed efficitur scelerisque. Nullam nibh felis, tincidunt ac sem ac, eleifend posuere quam.</p><p><br></p>"
+    },
+    "experience": {
+        "level": 1,
+        "current": 0,
+        "forNextLevel": 50,
+        "tillNextTalent": 3
+    },
+    "statistics": {
+        "strength": {
+            "current": 10,
+            "last": 0
+        },
+        "agility": {
+          "current": 10,
+          "last": 0
+        },
+        "tech": {
+          "current": 10,
+          "last": 0
+        },
+        "intelligence": {
+          "current": 10,
+          "last": 0
+        },
+        "cool": {
+          "current": 10,
+          "last": 0
+        },
+        "charisma": {
+          "current": 10,
+          "last": 0
+        },
+        "luck": {
+          "current": 10,
+          "last": 0
+        },
+        "knowledge": {
+          "current": 10,
+          "last": 0
+        },
+        "observation": {
+          "current": 10,
+          "last": 0
+        }
+    },
+    "damage": {
+        "close": 3,
+        "range": 5,
+        "hack": 1
+    },
+    "resistance": {
+        "close": 4,
+        "range": 3,
+        "hack": 2
+    },
+    "points": {
+        "health": {
+            "current": 12,
+            "max": 12
+        },
+        "mana": {
+            "current": 5,
+            "max": 5
+        }
+    },
+    "gameStates": {
+        "levelUp": false,
+        "talentUp": false
+    },
+    "characterTalent": [],
+    "history": "<p><strong>Lorem ipsum dolor sit amet:</strong></p><p>Consectetur adipiscing elit. Vivamus elementum placerat consectetur. Nunc tellus sapien, bibendum sit amet quam ut, congue mattis sapien. Nullam ultricies fringilla nulla vel vestibulum. Sed neque quam, aliquet tempor efficitur non, sodales eget ligula. Maecenas vestibulum nisi et tempus faucibus. Phasellus at magna nec mauris luctus suscipit sit amet in sapien. Suspendisse eleifend mi ante, in hendrerit erat pretium sed.&nbsp;</p><p>Cras non ligula massa. Mauris posuere elementum neque nec sollicitudin. Sed eget faucibus nisl. Nunc ut sagittis metus, at interdum quam. Donec mollis mauris purus, nec imperdiet nisl fringilla at. Suspendisse vulputate purus eu odio condimentum, eget faucibus nibh pellentesque. Vivamus consectetur sem sed efficitur scelerisque. Nullam nibh felis, tincidunt ac sem ac, eleifend posuere quam.</p><p><br></p>"
+}

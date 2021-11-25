@@ -1,0 +1,26 @@
+{
+  "cwd": "C:\\Users\\streammind-tle\\Desktop\\Ellmo",
+  "type": [
+    "web"
+  ],
+  "name": "JDR-Dashboard",
+  "framework": "vue",
+  "template": "tabs",
+  "cssPreProcessor": "stylus",
+  "bundler": "webpack",
+  "webpack": {
+    "developmentSourceMap": true,
+    "productionSourceMap": true,
+    "hashAssets": false,
+    "preserveAssetsPaths": false,
+    "inlineAssets": true
+  },
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false
+}
